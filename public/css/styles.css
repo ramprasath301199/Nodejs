@@ -1,0 +1,12 @@
+body {
+    min-height: 90vh;
+    background: #000000e0
+}
+
+h1 {
+    min-height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
